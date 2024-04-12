@@ -17,7 +17,9 @@ Then, update the config.json file with the database name, host, port, and table_
 
 ## Usage:
 ![log](https://github.com/dariusz-piekarz/tkinter_postgres_password_manager/assets/162720843/2fc2ac27-84f6-4eb3-8a3e-7b9545fcd698)
+
 Your login credentials are the same as specified in PostgreSQL (most likely 'postgres'), and the password is the one you set up earlier for the server.
+
 ![pm](https://github.com/dariusz-piekarz/tkinter_postgres_password_manager/assets/162720843/501c183b-e587-437f-a6ff-2ae624300fc5)
 
 After logging in, you can:
