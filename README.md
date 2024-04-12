@@ -12,6 +12,7 @@ Create a new *database* with a name of your choice, a *schema*, and a *table*. T
 - ("PIN", integer, False, False),
 - ("Phone Number", text, False, False),
 - ("Comment", text, False, False).
+  
 Then, update the config.json file with the database name, host, port, and table_name.
 
 ## Usage:
