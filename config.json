@@ -1,0 +1,6 @@
+{
+  "database": "logins_and_passwords",
+  "table": "lp.logins_and_passwords",
+  "port": "5432",
+  "host": "localhost"
+}
