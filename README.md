@@ -18,7 +18,7 @@ Then, update the config.json file with the database name, host, port, and table_
 
 Your login credentials are the same as specified in PostgreSQL (most likely 'postgres'), and the password is the one you set up earlier for the server.
 After logging in, you can:
-- Display existing passwords by field name,
+- Display existing passwords by "Name",
 - Delete records,
 - Modify existing records,
 - Insert new records.
